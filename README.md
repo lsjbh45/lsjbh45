@@ -8,7 +8,7 @@ Currently interested in the field of Software Development and Server Engineering
   
 Learning experiences in various fields patiently in order to move forward as a developer.
   
-Served as 소프트웨어개발병 at ROK Air Force, Developed Intranet Web Applications using Spring Framework (2021.03~2022.09)
+Served as 소프트웨어개발병 at ROK Air Force, Developed Intranet Web Applications using Spring Framework (2021.03~2022.09).
 
 ### Github Contribution Logs (Including Private Repos)
   
