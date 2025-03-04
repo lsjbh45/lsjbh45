@@ -2,16 +2,6 @@
 
 ### Hi there 👋
 
-I'm Seungjik Lee, an undergraduate student in the Dept of Computer Science and Engineering at Korea University (2019.03~).
-
-Currently interested in the field of Software Development and Server Engineering.
-  
-Learning experiences in various fields patiently in order to move forward as a developer.
-
-Completed SW Maestro 14th course as trainee, developed [Macguider](https://github.com/cofinder-team) (2023.04~2023.11).
-
-Served as 소프트웨어개발병 at ROK Air Force, managed intranet web applications using Spring framework (2021.03~2022.09).
-
 ###
 
 <a href="https://github.com/anuraghazra/convoychat">
